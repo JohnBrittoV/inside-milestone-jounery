@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F5F5F5;
+}
+
+:root{
+    --primary-color: #6C5CE7;
+    --secondary-color: #A29BFE;
+    --accent-color: #FD79AB;
+    --dark-color: #2D3436;
+    --light-color: #F5F6FA;
+    --success-color:  #00B894;
+    --warning-color: #FDCB6E;
+    --danger-color: #D63931;
+    --line-color: #D4D4D4;
+}
+
+.nav-bar{
+    
+}
+
